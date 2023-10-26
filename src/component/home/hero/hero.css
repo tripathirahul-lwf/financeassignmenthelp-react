@@ -1,0 +1,168 @@
+.hero-section {
+    position: relative;
+    z-index: 1;
+    padding: 160px 0 90px;
+    background: url("../../img/hero/hero-bg.svg");
+    background-position: top center;
+    background-repeat: no-repeat;
+  }
+  
+  @media (max-width: 767px) {
+    .hero-section {
+      padding-top: 130px;
+    }
+  }
+  
+  .hero-section .hero-content {
+    margin-bottom: 100px;
+  }
+  
+  @media only screen and (min-width: 768px) and (max-width: 991px),
+  (max-width: 767px) {
+    .hero-section .hero-content {
+      margin-bottom: 0px;
+    }
+  }
+  
+  .hero-section .hero-content h1 {
+    font-size: 60px;
+    margin-bottom: 35px;
+    color: #fff;
+  }
+  
+  @media only screen and (min-width: 1200px) and (max-width: 1399px) {
+    .hero-section .hero-content h1 {
+      font-size: 52px;
+    }
+  }
+  
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .hero-section .hero-content h1 {
+      font-size: 42px;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .hero-section .hero-content h1 {
+      font-size: 32px;
+    }
+  }
+  
+  @media only screen and (min-width: 480px) and (max-width: 767px) {
+    .hero-section .hero-content h1 {
+      font-size: 42px;
+    }
+  }
+  
+  .hero-section .hero-content p {
+    margin-bottom: 40px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #fff;
+  }
+  
+  @media only screen and (min-width: 1400px) {
+    .hero-section .hero-content p {
+      padding-right: 120px;
+    }
+  }
+  
+  @media only screen and (min-width: 1200px) and (max-width: 1399px) {
+    .hero-section .hero-content p {
+      padding-right: 70px;
+    }
+  }
+  
+  .hero-section .hero-content .main-btn {
+    border-color: #fff;
+    color: #fff;
+  }
+  
+  .hero-section .hero-content .main-btn::after {
+    background: rgba(255, 255, 255, 0.15);
+  }
+  
+  .hero-section .hero-content .scroll-bottom {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #fff;
+    border: 3px solid #5864FF;
+    color: #5864FF;
+    left: 15px;
+    bottom: 0;
+    z-index: 9;
+  }
+  
+  .hero-section .hero-content .scroll-bottom i {
+    font-weight: 700;
+  }
+  
+  
+  
+  .banner_form {
+    background-color: #fff;
+    height: 550px;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  }
+  
+  .form_title {
+    font-size: 30px;
+    margin-bottom: 2rem;
+  }
+  
+  @media only screen and (min-width: 768px) and (max-width: 991px),
+  (max-width: 767px) {
+    .banner_form {
+      margin-top: 2rem;
+      padding: 2rem;
+    }
+    .hero-section .hero-content .scroll-bottom{
+      display: none;
+    }
+  }
+  
+  
+  
+  .hero-section .hero-shape .shape {
+    position: absolute;
+    z-index: -1;
+  }
+  
+  .hero-section .hero-shape .shape.shape-1 {
+    top: -285px;
+    right: -300px;
+  }
+  
+  @media only screen and (min-width: 1200px) and (max-width: 1399px) {
+    .hero-section .hero-shape .shape.shape-1 {
+      top: -420px;
+      right: -550px;
+    }
+  }
+  
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .hero-section .hero-shape .shape.shape-1 {
+      top: -400px;
+      right: -550px;
+    }
+  }
+  
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .hero-section .hero-shape .shape.shape-1 {
+      display: none;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .hero-section .hero-shape .shape.shape-1 {
+      display: none;
+    }
+  }
+  

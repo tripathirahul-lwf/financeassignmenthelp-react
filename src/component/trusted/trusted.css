@@ -1,0 +1,36 @@
+.section-features{
+    background: rgba(88, 100, 255, 0.1);
+}
+.trusted-block{
+    text-align: center;
+    padding: 35px;
+    background-color: #fff;
+    border-radius: 6px;
+    position: relative;
+    border: 2px solid #fff;
+    -webkit-transition: all 1s ;
+    transition: all 1s ;
+}
+.trusted-block:hover{
+    -webkit-box-shadow: 0px 3px 5px #00000017;
+    box-shadow: 0px 3px 5px #00000017;
+    border: 2px solid #3636f3;
+}
+.rating , .review-count{
+    font-size: 18px;
+    color: #766d6d;
+    font-weight: 600;
+    margin: .7rem 0;
+}
+.review-count{
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+.rate_star{
+    color: #ffb700;
+}
+.trusted-logo img{
+    margin-top: 10px;
+    height: 60px;
+    width: 90%;
+}

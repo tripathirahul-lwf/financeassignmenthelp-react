@@ -1,0 +1,65 @@
+  .about-five-tab {
+      margin-top: 40px
+  }
+
+  .about-five-tab nav {
+      border: none;
+      background-color: #efefef;
+      padding: 15px;
+      border-radius: 5px
+  }
+
+  .about-five-tab nav .nav-tabs {
+      border: none
+  }
+
+  .about-five-tab nav button {
+      border: none;
+      color: #2d2d2d;
+      font-weight: 600;
+      padding: 0;
+      margin-right: 20px;
+      position: relative;
+      background-color: #fff;
+      padding: 10px 18px;
+      border-radius: 4px;
+      text-transform: capitalize
+  }
+
+  @media(max-width:767px) {
+      .about-five-tab nav button {
+          margin: 0;
+          margin-bottom: 10px;
+          width: 100%
+      }
+
+      .about-five-tab nav button:last-child {
+          margin: 0
+      }
+  }
+
+  .about-five-tab nav button:hover {
+      color: #155bd5;
+  }
+
+  .about-five-tab nav .nav-link.active {
+      background-color: #155bd5;
+      color: #fff;
+  }
+
+  .about-five-tab nav button:last-child {
+      margin-right: 0
+  }
+
+  .about-five-tab .tab-content {
+      border: none;
+      padding-top: 30px
+  }
+
+  .about-five-tab .tab-content p {
+      margin-bottom: 20px
+  }
+
+  .about-five-tab .tab-content p:last-child {
+      margin: 0
+  }
