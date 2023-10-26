@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/financeassignmenthelp-react/static/css/main.ffcbf0f2.css",
+    "main.js": "/financeassignmenthelp-react/static/js/main.57c74f32.js",
+    "static/js/787.a2aafed8.chunk.js": "/financeassignmenthelp-react/static/js/787.a2aafed8.chunk.js",
+    "static/media/google.png": "/financeassignmenthelp-react/static/media/google.b2005957130245dcae50.png",
+    "static/media/sitejabber.png": "/financeassignmenthelp-react/static/media/sitejabber.fdf959636295a6afc4d5.png",
+    "static/media/trust.png": "/financeassignmenthelp-react/static/media/trust.42c1908108ae4e99b6a6.png",
+    "static/media/tsh.png": "/financeassignmenthelp-react/static/media/tsh.cd7c6c7b0371374a9176.png",
+    "static/media/slick.svg": "/financeassignmenthelp-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/financeassignmenthelp-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/financeassignmenthelp-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/financeassignmenthelp-react/index.html",
+    "static/media/slick.woff": "/financeassignmenthelp-react/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/footer-bg.svg": "/financeassignmenthelp-react/static/media/footer-bg.406620632f24e7ccf324.svg",
+    "static/media/hero-bg.svg": "/financeassignmenthelp-react/static/media/hero-bg.52c52e0097dbc5076882.svg",
+    "main.ffcbf0f2.css.map": "/financeassignmenthelp-react/static/css/main.ffcbf0f2.css.map",
+    "main.57c74f32.js.map": "/financeassignmenthelp-react/static/js/main.57c74f32.js.map",
+    "787.a2aafed8.chunk.js.map": "/financeassignmenthelp-react/static/js/787.a2aafed8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffcbf0f2.css",
+    "static/js/main.57c74f32.js"
+  ]
+}
