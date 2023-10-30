@@ -11,7 +11,7 @@ const Content = () => {
                             <div className="col-xxl-5 col-xl-6 col-lg-8 col-md-9">
                                 <div className="section-title text-center mb-60">
                                     <h2 className="mb-25 wow fadeInUp" data-wow-delay=".2s">
-                                        Why Choose Financeassignmenthelp
+                                       Content
                                     </h2>
                                     <p className="wow fadeInUp" data-wow-delay=".4s">
                                         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed

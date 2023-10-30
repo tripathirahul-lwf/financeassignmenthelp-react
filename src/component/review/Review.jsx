@@ -40,7 +40,7 @@ const Review = () => {
     };
     return (
         <>
-            <section id="testimonials" class="testimonial-section">
+            <section id="review" class="testimonial-section">
                 <div class="container">
                     <div class="section-title text-center">
                         <h2 class="mb-70">What our customers says</h2>

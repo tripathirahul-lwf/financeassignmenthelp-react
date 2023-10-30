@@ -4,7 +4,7 @@ import './faq.css'
 const Faq = () => {
     return (
         <>
-            <section className="faq section pt-120 pb-120" id="FAQs">
+            <section className="faq section pt-120 pb-120" id="faq">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-xxl-5 col-xl-6 col-lg-8 col-md-9">
